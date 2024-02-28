@@ -2,7 +2,7 @@
 
 This is a simple project created in JavaScript. It's intended purpose is to create a random number between 1 to 100 that you have to guess.
 
-![Alt text](/Guessing-Game-App/RNG1.jpg?raw=true "page example")
+![An example of pop-up window](RNG1.jpg?raw=true "page example")
 
 ### How to guess? 
 
